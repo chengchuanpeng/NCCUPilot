@@ -1,6 +1,9 @@
 # DBProject
 
 DataBase Project :
-    data: NCCU Pilot
-        
     
+    
+  -  Data: NCCU Pilot
+  -  Server : XAMPP window
+  -  run npm test
+  
