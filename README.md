@@ -3,7 +3,7 @@
 DataBase Project :
     
     
-  -  Data: NCCU Pilot \n
-  -  Server : XAMPP window
+  -  Data: NCCU Pilot ＜/br＞
+  -  Server : XAMPP window ＜/br＞
   -  run npm test
   
